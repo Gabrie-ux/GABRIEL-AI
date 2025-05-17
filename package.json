@@ -1,6 +1,6 @@
 {
 
-  "name": "NagiBotV2",
+  "name": "Akeno himejima-BOT",
 
   "version": "2.2.0",
 
@@ -38,7 +38,7 @@
 
   },
 
-  "homepage": "https://github.com/El-brayan502/NagiBotV2",
+  "homepage": "https://github.com/TOKIO5025/akeno-Bot",
 
   "author": {
 
@@ -50,13 +50,13 @@
 
     "type": "git",
 
-    "url": "git+https://github.com/El-brayan502/NagiBotV2.git"
+    "url": "git+https://github.com/TOKIO5025/akeno-Bot.git"
 
   },
 
   "bugs": {
 
-    "url": "https://github.com/El-brayan502/NagiBotV2/issues"
+    "url": "https://github.com/TOKIO5025/akeno-Bot/issues"
 
   },
 
