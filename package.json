@@ -64,7 +64,7 @@
 
   "dependencies": {
 
-    "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@^8.6.11",
+    "@whiskeysockets/baileys": "github:ds6/meta",
 
     "@adiwajshing/keyed-db": "^0.2.4",
 
