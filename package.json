@@ -1,12 +1,12 @@
 {
-  "name": "AKENO-HIMEJIMA-BOT",
+  "name": "akeno",
   "version": "2.2.0",
   "description": "Super WhatsApp Bot Multi Device",
   "main": "index.js",
   "type": "module",
   "directories": {
     "lib": "lib",
-    "src": "src",
+    "src": "storage",
     "plugins": "plugins"
   },
   "scripts": {
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/meldexzz/bolibotmensual.git",
   "author": {
-    "name": "meldexzz"
+    "name": "Barboza"
   },
   "repository": {
     "type": "git",
@@ -37,7 +37,7 @@
     "@ibaraki-douji/pixivts": "^2.4.1",
     "@octokit/rest": "^21.1.1",
     "@vitalets/google-translate-api": "^8.0.0",
-            "@whiskeysockets/baileys": "npm:@izumi-xyz/meta",
+       "@whiskeysockets/baileys": "github:GataNina-Li/Baileys", 
     "@xct007/frieren-scraper": "^0.0.2",
     "acrcloud": "^1.4.0",
     "api-dylux": "^1.7.2",
