@@ -37,7 +37,7 @@
     "@ibaraki-douji/pixivts": "^2.4.1",
     "@octokit/rest": "^21.1.1",
     "@vitalets/google-translate-api": "^8.0.0",
-       "@whiskeysockets/baileys": "github:GataNina-Li/Baileys", 
+       "@whiskeysockets/baileys": "github:https://github.com/SYA-TEAM/Bai", 
     "@xct007/frieren-scraper": "^0.0.2",
     "acrcloud": "^1.4.0",
     "api-dylux": "^1.7.2",
